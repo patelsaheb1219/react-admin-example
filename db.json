@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "title": "Post five",
+      "body": "this is the body for post five",
+      "publishedAt": "2020-11-28",
+      "id": "QuS0str"
+    },
+    {
+      "title": "new ",
+      "body": "post",
+      "publishedAt": "2020-11-26",
+      "id": "nbUiJJn"
+    }
+  ],
+  "users": [
+    {
+      "name": "Rahul Patel",
+      "email": "rahul@patel.com",
+      "id": "ltW_iIU"
+    },
+    {
+      "name": "Kishan Patel",
+      "email": "kishan@gmail.com",
+      "id": "cXg_qqK"
+    }
+  ]
+}
